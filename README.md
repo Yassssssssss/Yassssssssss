@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Yass and I'm currently a second year Computer Science Student at the University Of Exeter.
+
+
 <!--
 **Yassssssssss/Yassssssssss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
