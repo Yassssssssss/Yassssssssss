@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi there! I'm a final year student with a strong passion for Data Science and a keen interest in pursuing data-driven roles. I am dedicated and hardworking, always striving to expand my knowledge and skills in this ever-evolving field. With a solid foundation in data analysis, statistics, and programming, I am excited to tackle complex problems and extract meaningful insights from data. Through my academic journey, I have gained experience in various data science techniques and tools, including machine learning, data visualization, and data manipulation. I am eager to apply my expertise to real-world scenarios and contribute to impactful projects. Let's explore the fascinating world of data together!
+Hi there! I'm a final year student with a strong passion for Data Science and a keen interest in pursuing data-driven roles. I am dedicated and hardworking, always striving to expand my knowledge and skills in this ever-evolving field. With a solid foundation in data analysis, statistics, and programming, I am excited to tackle complex problems and extract meaningful insights from data. Through my academic journey, I have gained experience in various data science techniques and tools, including machine learning, data visualization, and data manipulation. I am eager to apply my expertise to real-world scenarios and contribute to impactful projects.
 
 
 <!--
